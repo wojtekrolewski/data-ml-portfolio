@@ -22,7 +22,7 @@ Development and evaluation of image-based methods for detecting and classifying 
 
 **Technologies:** Python, OpenCV, ML models
 
-Repository: https://github.com/wojtekrolewski/fiber-break-detection-computer-vision
+Repository: [fiber-break-detection-cv](https://github.com/wojtekrolewski/fiber-break-detection-computer-vision)
 
 ### Bayesian Network Structure Learning
 **Focus:** Probabilistic modeling, theory + application
@@ -32,7 +32,7 @@ Comparative analysis of selected algorithms for Bayesian network structure learn
 
 **Technologies:** R, probabilistic modeling
 
-Repository: https://github.com/wojtekrolewski/bayesian-network-structure-learning
+Repository: [bayesian-network-structure-learning](https://github.com/wojtekrolewski/bayesian-network-structure-learning)
 
 ## Data Analysis & Statistics
 
@@ -43,7 +43,7 @@ Repository: https://github.com/wojtekrolewski/bayesian-network-structure-learnin
 Analysis of time series data with emphasis on trend identification, seasonal patterns, and interpretation of temporal dynamics using classical statistical techniques.
 
 **Technologies:** R / Python
-Repository: https://github.com/wojtekrolewski/time-series-analysis-r
+Repository: [time-series-analysis-r](https://github.com/wojtekrolewski/time-series-analysis-r)
 
 ### Statistical Analysis of Tourism Accommodation Usage in Poland
 **Focus:** EDA, statistical inference
@@ -53,7 +53,7 @@ Statistical analysis of nationwide, aggregated tourism accommodation data. The p
 
 **Technologies:** R, public statistical data
 
-Repository: https://github.com/wojtekrolewski/statistical-analysis-tourism-poland
+Repository: [statistical-analysis-tourism-poland](https://github.com/wojtekrolewski/statistical-analysis-tourism-poland)
 
 ### Box-Counting Dimension Tool
 **Focus:** Algorithmic analysis, image-based data
@@ -63,4 +63,4 @@ Implementation of a tool for estimating the box-counting (fractal) dimension, in
 
 **Technologies:** Python, numerical analysis
 
-Repository: https://github.com/wojtekrolewski/box-counting-dimension-tool
+Repository: [box-counting-dimension-tool](https://github.com/wojtekrolewski/box-counting-dimension-tool)
